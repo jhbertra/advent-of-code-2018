@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jhbertra/advent-of-code-2018.git",
+  "author": "Jamie Bertram <jhbertra@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@architect/architect": "^4.4.4"
+  }
+}
