@@ -6,6 +6,7 @@
   "author": "Jamie Bertram <jhbertra@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@architect/architect": "^4.4.4"
+    "@architect/architect": "^4.4.4",
+    "progress": "^2.0.2"
   }
 }
